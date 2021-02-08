@@ -25,7 +25,7 @@ SECRET_KEY = '^p&%e#hvd8$#sbi0sn62gwn*^zglij^#&qex(yv*7om3ku#jve'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [""]
+ALLOWED_HOSTS = ["http://studetgrades.herokuapp.com/"]
 
 
 # Application definition
