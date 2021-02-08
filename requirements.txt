@@ -7,3 +7,4 @@ pytz==2020.1
 asgiref==3.2.10
 pytesseract==0.3.7
 Pillow==7.1.2
+gunicorn==20.0.4
